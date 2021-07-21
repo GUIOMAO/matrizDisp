@@ -5,7 +5,7 @@
 //Autores:
 //	LADY GUIOVANA ESPITIA ZAPATA
 //	HENZCER MAURICIO PEÑA IGUAVITA
-// CAMBIO 1
+// cambio #2
 
 package matrizDisp;
 
